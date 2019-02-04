@@ -10,8 +10,6 @@ It is suggested you view them raw rather than viewing them the way that GitHub n
 
 ---
 
-The list below contains all of the scoreboards in the raw format. 
-
 ### December 
 
 - [12-16-18](https://raw.githubusercontent.com/Jric0/PNG-Event-Scores/master/December/12-16-18.json)
