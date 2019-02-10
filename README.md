@@ -6,7 +6,9 @@ This repository contains all scores from the weekly event hosted by me in the PN
 
 The scoreboard JSONs are formatted as `UserID:Score` 
 
-It is suggested you view them raw rather than viewing them the way that GitHub naturally displays them. 
+It is suggested you view them raw rather than viewing them the way that GitHub naturally displays them.
+
+In addition to viewing them raw, you should install [this](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) Chrome Extension that will allow you to view a formatted version, making it easier to read. 
 
 ---
 
