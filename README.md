@@ -6,26 +6,22 @@ This repository contains all scores from the weekly event hosted by me in the PN
 
 The scoreboard JSONs are formatted as `UserID:Score` 
 
-It is suggested you view them raw rather than viewing them the way that GitHub naturally displays them.
-
-In addition to viewing them raw, you should install [this](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) Chrome Extension that will allow you to view a formatted version, making it easier to read. 
-
 ---
 
 ### December 
 
-- [12-16-18](https://raw.githubusercontent.com/Jric0/PNG-Event-Scores/master/December/12-16-18.json)
+- [12-16-18](https://github.com/Jric0/PNG-Event-Scores/blob/master/December/12-16-18.json)
 
-- [12-30-18](https://raw.githubusercontent.com/Jric0/PNG-Event-Scores/master/December/12-30-18.json)
+- [12-30-18](https://github.com/Jric0/PNG-Event-Scores/blob/master/December/12-30-18.json)
 
 ### January
 
-- [1-13-19](https://raw.githubusercontent.com/Jric0/PNG-Event-Scores/master/January/1-13-19.json)
+- [1-13-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/January/1-13-19.json)
 
-- [1-20-19](https://raw.githubusercontent.com/Jric0/PNG-Event-Scores/master/January/1-20-19.json)
+- [1-20-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/January/1-20-19.json)
 
 ### February
 
-- [2-03-19](https://raw.githubusercontent.com/Jric0/PNG-Event-Scores/master/February/2-03-19.json)
+- [2-03-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/February/2-03-19.json)
 
-- [2-03-19](https://raw.githubusercontent.com/Jric0/PNG-Event-Scores/master/February/2-10-19.json)
+- [2-10-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/February/2-10-19.json)
