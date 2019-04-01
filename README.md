@@ -30,10 +30,12 @@ The scoreboard JSONs are formatted as `UserID:Score`
 
 ### March
 
-- [3-04-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/March/03-04-19.json)
+- [03-04-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/March/03-04-19.json)
 
-- [3-10-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/March/03-10-19.json)
+- [03-10-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/March/03-10-19.json)
 
-- [3-18-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/March/03-18-19.json)
+- [03-18-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/March/03-18-19.json)
 
-- [3-24-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/March/03-24-19.json)
+- [03-24-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/March/03-24-19.json)
+
+- [03-31-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/March/03-31-19.json)
