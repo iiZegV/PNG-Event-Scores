@@ -4,7 +4,9 @@ This repository contains all scores from the weekly event hosted by me in the PN
 
 ---
 
-The scoreboard JSONs are formatted as `UserID:Score` 
+The scoreboard JSONs until 04-14-19 are formatted as `UserID:Score` 
+
+The scoreboard JSONs after 04-14-19 are formatted as `Username#Discriminator:Score`
 
 ---
 
