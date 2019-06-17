@@ -47,3 +47,7 @@ The scoreboard JSONs after 04-14-19 are formatted as `Username#Discriminator:Sco
 - [04-07-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/April/04-07-19.json)
 
 - [04-14-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/April/04-14-19.json)
+
+### June
+
+- [06-16-19](https://github.com/Jric0/PNG-Event-Scores/blob/master/June/06-16-19.json)
